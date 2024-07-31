@@ -1,0 +1,34 @@
+<svg width="157.000000" height="162.709106" viewBox="0 0 157 162.709" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="81.139389" y1="26.000000" x2="81.139389" y2="138.278778" id="paint_linear_6_60_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#040A57"/>
+			<stop offset="1.000000" stop-color="#3A23E6"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.100000">
+		<circle id="Ellipse 13" cx="100.861328" cy="106.569702" r="56.139393" fill="#07086C" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.100000">
+		<circle id="Ellipse 14" cx="53.285156" cy="97.054504" r="53.284847" fill="#07086C" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.100000">
+		<circle id="Ellipse 15" cx="90.394531" cy="53.284851" r="53.284847" fill="#07086C" fill-opacity="1.000000"/>
+	</g>
+	<circle id="Ellipse 12" cx="81.139648" cy="82.139404" r="56.139393" fill="url(#paint_linear_6_60_0)" fill-opacity="1.000000"/>
+	<path id="Vector" d="M69.66 89.83C66.9 89.83 64.66 92.07 64.66 94.83C64.66 97.59 66.9 99.83 69.66 99.83C72.42 99.83 74.66 97.59 74.66 94.83C74.66 92.07 72.42 89.83 69.66 89.83ZM69.66 98.16C67.82 98.16 66.33 96.67 66.33 94.83C66.33 92.99 67.82 91.5 69.66 91.5C71.5 91.5 73 92.99 73 94.83C73 96.67 71.5 98.16 69.66 98.16Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M98 89.83C95.24 89.83 93 92.07 93 94.83C93 97.59 95.24 99.83 98 99.83C100.75 99.83 103 97.59 103 94.83C103 92.07 100.75 89.83 98 89.83ZM98 98.16C96.16 98.16 94.66 96.67 94.66 94.83C94.66 92.99 96.16 91.5 98 91.5C99.83 91.5 101.33 92.99 101.33 94.83C101.33 96.67 99.83 98.16 98 98.16Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M107.86 85.21L100.36 73.54C100.21 73.31 99.95 73.16 99.66 73.16L90.5 73.16C90.03 73.16 89.66 73.54 89.66 74L89.66 94.83C89.66 95.29 90.03 95.66 90.5 95.66L93.83 95.66L93.83 94L91.33 94L91.33 74.83L99.21 74.83L106.33 85.91L106.33 94L102.16 94L102.16 95.66L107.16 95.66C107.62 95.66 108 95.29 108 94.83L108 85.66C108 85.5 107.95 85.35 107.86 85.21Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M94.66 84L94.66 78.16L101.33 78.16L101.33 76.5L93.83 76.5C93.37 76.5 93 76.87 93 77.33L93 84.83C93 85.29 93.37 85.66 93.83 85.66L106.33 85.66L106.33 83.99L94.66 83.99L94.66 84Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M90.5 67.33L58.83 67.33C58.37 67.33 58 67.7 58 68.16L58 94.83C58 95.29 58.37 95.66 58.83 95.66L65.5 95.66L65.5 94L59.66 94L59.66 69L89.66 69L89.66 94L73.83 94L73.83 95.66L90.5 95.66C90.96 95.66 91.33 95.29 91.33 94.83L91.33 68.16C91.33 67.7 90.96 67.33 90.5 67.33Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M58.83 90.66L63.83 90.66L63.83 92.33L58.83 92.33L58.83 90.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M75.5 90.66L89.66 90.66L89.66 92.33L75.5 92.33L75.5 90.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M103.83 90.66L107.16 90.66L107.16 92.33L103.83 92.33L103.83 90.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M61.33 70.66L90.5 70.66L90.5 72.33L61.33 72.33L61.33 70.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M68.83 94L70.5 94L70.5 95.66L68.83 95.66L68.83 94Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M97.16 94L98.83 94L98.83 95.66L97.16 95.66L97.16 94Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M61.33 64L73 64L73 65.66L61.33 65.66L61.33 64Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Vector" d="M58 64L59.66 64L59.66 65.66L58 65.66L58 64Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
