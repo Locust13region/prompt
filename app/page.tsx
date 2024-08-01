@@ -2,8 +2,14 @@ import Image from "next/image";
 import BenefitsCards from "./ui/components/benefits-cards";
 import SliderManufacturers from "./ui/components/slider";
 import Accordion from "./ui/components/accordion";
+import Modal from "./ui/components/modal";
 
-export default function Home() {
+export default function Home({
+	searchParams,
+}: {
+	searchParams: Record<string, string> | null | undefined;
+}) {
+	const show = searchParams?.show;
 	return (
 		<>
 			<section className="h-[850px]">
@@ -95,6 +101,7 @@ export default function Home() {
 					</div>
 				</div>
 			</section>
+			{show && <Modal />}
 		</>
 	);
 }

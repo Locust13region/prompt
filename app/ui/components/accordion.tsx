@@ -15,11 +15,11 @@ export default function Accordion() {
 						<div className="rounded-xl shadow-[0_4px_4px_0_rgba(0,0,0,0.25)]">
 							<div
 								className={
-									"h-[87px] rounded-xl flex justify-between items-center pl-14 pr-9 shadow-[0_0_50px_-10px_rgba(22,126,194,0.2)] " +
+									"h-[87px] rounded-xl flex justify-between items-center pl-14 pr-9 " +
 									" " +
 									(isOpen
-										? "bg-secondary"
-										: "bg-gradient-to-b from-white from-50% to-[#BDC0FF]")
+										? "bg-gradient-to-b from-[rgb(150,154,247)] via-[rgb(104,110,236)] via-100% to-[rgb(22,126,194)] shadow-[0_20px_50px_-10px_rgba(22,126,194,0.2);"
+										: "bg-gradient-to-b from-white from-50% to-[#BDC0FF] shadow-[0_0_50px_-10px_rgba(22,126,194,0.2)]")
 								}
 							>
 								<div className="font-demi text-2xl">{item.title}</div>

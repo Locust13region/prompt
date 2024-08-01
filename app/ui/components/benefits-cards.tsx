@@ -11,7 +11,7 @@ export default function BenefitsCards() {
 				>
 					<Image
 						src={card.icon}
-						alt=""
+						alt={card.title}
 						width={157}
 						height={162}
 						style={{ width: 157, height: 162 }}

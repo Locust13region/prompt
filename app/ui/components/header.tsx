@@ -17,7 +17,10 @@ export default function Header() {
 				/>
 			</Link>
 			<NavLinks items={menuLinks} />
-			<div className="flex gap-2 justify-center items-center">
+			<Link
+				href="/?show=true"
+				className="flex gap-2 justify-center items-center"
+			>
 				<Image
 					src={"/icons/phone.svg"}
 					alt="phone"
@@ -27,7 +30,7 @@ export default function Header() {
 				<p className="font-futuris text-lg">
 					+7 (812)<strong>313-58-45</strong>
 				</p>
-			</div>
+			</Link>
 		</div>
 	);
 }
